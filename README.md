@@ -43,6 +43,6 @@ Enter a movie name: Resident Evil
 Recommendations for 'Resident Evil':
 1. 28 Days Later
 2. 28 Years Later
-3. Weapons (Similarity: 14.6%)
-4. Beware Boiúna (Similarity: 14.2%)
-5. Train to Busan (Similarity: 14.0%)
+3. Weapons
+4. Beware Boiúna
+5. Train to Busan
