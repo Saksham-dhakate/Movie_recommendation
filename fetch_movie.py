@@ -6,7 +6,7 @@ import psycopg2
 
 # Acessing Using API
 
-tocken_tmdb = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3ZDllOGRkYTg5YzRmYmJlOGNmNzgzMWMzNDdmZjllZCIsIm5iZiI6MTc4OTc5NTgxNC4wOSwic3ViIjoiNmFhZTFkZTZiNTM2ODk0M2NlNjZlZmM1Iiwic2NvcGVzIjpbImFwaV9yZWFkIl0sInZlcnNpb24iOjF9.ZX9f9vhOucf9WJzWIHddqQ0BQG1_6heXXrtEgMtwcO8"
+tocken_tmdb = "tmdb_token(not included)"
 Db_password = "Saksham@22"
 
 headers = {
