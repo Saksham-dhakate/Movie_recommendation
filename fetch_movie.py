@@ -7,7 +7,7 @@ import psycopg2
 # Acessing Using API
 
 tocken_tmdb = "tmdb_token(not included)"
-Db_password = "Saksham@22"
+Db_password = "password(not included)"
 
 headers = {
     "Authorization" : f"Bearer {tocken_tmdb}",
