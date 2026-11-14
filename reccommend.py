@@ -8,7 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 conn = psycopg2.connect(
     dbname="movies_db",
     user="postgres",
-    password="Saksham@22",
+    password="password",
     host="localhost",
     port="5432"
 )
