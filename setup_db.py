@@ -5,7 +5,7 @@ from psycopg2.extensions import ISOLATION_LEVEL_AUTOCOMMIT
 
 #Setting Password
 
-Db_password = "Saksham@22"
+Db_password = "password"
 
 # Creating Connection
 
